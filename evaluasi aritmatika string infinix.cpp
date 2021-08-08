@@ -1,3 +1,6 @@
+//Nama anggota:
+//Arya Affanda Auliya Duha 2017051063
+//Kania Ratu Syifa Az Zahra 2057051014
 #include <bits/stdc++.h>
 using namespace std;
 
